@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.birdInfo{
+    width: 40%;
+    margin: 3em;
+    
+}
+
+button{
+    display: block;
+}
+
+.showP{
+    text-align: left;
+    margin-top: .3em;
+    width: 50%;
+}
+
+.showGenus{
+    text-align: left;
+    font-style: italic;
+    margin-bottom: 2em;
+}
+

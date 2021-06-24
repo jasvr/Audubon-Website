@@ -1,0 +1,10 @@
+.Bird{
+    display: inline-block;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    width: 80%;
+    margin: 0 auto;
+}

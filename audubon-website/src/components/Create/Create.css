@@ -1,0 +1,28 @@
+.form{
+    width: 50%;
+    margin: 0 auto;
+    
+}
+
+.forminput{
+    border: 1px darkslategrey solid;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    height: 50px;
+}
+
+p{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.textarea{
+    height: 100px;
+}
+
+#button{
+    display:block;
+    margin: 0 auto;
+    margin-top: 1.5em;
+}
